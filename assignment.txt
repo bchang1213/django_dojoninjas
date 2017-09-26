@@ -1,0 +1,1 @@
+Dojo.objects.first().ninjas.all()
